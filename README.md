@@ -1,12 +1,12 @@
 # CASE: Lag en forside
 
-I dette caset skal du lage en forside for en nettavis. Forsiden skal være i form av en [Amedia Component](https://amedia.slite.com/app/docs/fs~VBEBXM3/Amedia-Component). En Amedia Component består av et manifest som beskriver et endepunkt som leverer HTML og hvilke parametre som skal sendes inn til dette endepunktet. Videre inneholder manifestet url'er til evt. script- og css-filer. I dette caset ligger det allerde klart en fungerende Amedia Component du kan arbeide videre på.
+I dette caset skal du lage en forside for en nettavis. Forsiden skal være i form av en [Amedia Component](https://amedia.slite.com/app/docs/fs~VBEBXM3/Amedia-Component). En Amedia Component består av et manifest som beskriver et endepunkt som leverer HTML og hvilke parametre som skal sendes inn til dette endepunktet. Videre inneholder manifestet url'er til evt. script- og css-filer. I dette caset ligger det allerede klart en fungerende Amedia Component du kan arbeide videre på.
 
 ## Sett opp miljøet
 
 Det første du må gjøre er å sette opp miljøet.
 
-1. Lag en klone av dette repository
+1. Lag en klone av dette repository-et
 2. Du må ha Node versjon 18 for å kjøre applikasjonen
 3. Installer avhengigheter med `npm install` og kjør opp serveren med `npm run dev-start`
 4. Du skal nå få opp [en nettside](http://localhost:8080/frontpage-case/preview)
